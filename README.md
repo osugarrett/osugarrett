@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Python and HTML.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: waxgrithr#7190, discord
+- 📫 How to reach me: 
 
 <!---
 osugarrett/osugarrett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
