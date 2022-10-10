@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osugarrett
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Python and HTML.
+- 🌱 I’m currently learning Python, JS, and HTML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
 
